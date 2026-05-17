@@ -1,6 +1,6 @@
 # 🏓 Pong Game
 ## My CS50 final project
-### Video Demo:  https://youtu.be/4mnmx-lm-rY
+
 ### 💡 Description:
 <p>It's a two-player game where two players compete to score the most goals against each other. To make the game's pace a little more challenging, I sped up the ball when it hit the wall, up and down, by 5% of the current ball speed. I used a simple algorithm that reverses the ball's position to make the ball move in a vertical (y-axis) curve (negative and positive) when it hits the wall and a horizontal (x-axis) curve when it hits the paddles. 🧲 Quick cheat while playing. The closer the ball is to a 90-degree angle when it hits the wall, the less range it will have :)</p>
 
